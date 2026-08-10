@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "assets/images",
+  "newFileFolderPath": "recipes",
+  "newFileLocation": "folder",
+  "useMarkdownLinks": true,
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true
+}
