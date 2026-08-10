@@ -14,22 +14,37 @@ image: "assets/images/recipe-name.jpg"
 Optional subheader or brief description of this dish.
 
 ## info
-* Takes about 45 minutes total (15 mins prep, 30 mins cook)
-* Makes 4 servings
+* Total time: 45 minutes (15 mins prep, 30 mins cook)
+* Servings: 4
+
+## prep
+- [ ] Gather tools: cutting board, chef's knife, mixing bowl, pan
+- [ ] Chop all vegetables as needed
+- [ ] Preheat oven to 375°F if needed
+- [ ] Measure out all dry ingredients
 
 ## ingredients
-* 1 lb Main Ingredient
-* 2 tbsp Olive Oil
-* 1 tsp Salt
-* 1/2 tsp Black Pepper
+
+| Ingredient | Amount | Amount (grams) | Notes |
+|---|---|---|---|
+| Main Ingredient | 1 lb | 454g | Chopped |
+| Olive Oil | 2 tbsp | 30g | |
+| Salt | 1 tsp | 6g | To taste |
+| Black Pepper | 1/2 tsp | 1g | Freshly ground |
 
 ## steps
-1. **Prep**: Prepare and chop all ingredients.
-2. **Cook**: Heat pan over medium heat and cook for 15 minutes.
-3. **Serve**: Garnish and serve warm.
+1. Heat 2 tbsp (30g) olive oil in a pan over medium heat for 1 minute.
+2. Add 1 lb (454g) chopped main ingredient and cook for 15 minutes, stirring occasionally.
+3. Season with 1 tsp (6g) salt and 1/2 tsp (1g) black pepper.
+4. Garnish and serve warm.
 
 ## notes
-* Storage tips or substitution ideas.
+* Storage: Keeps in an airtight container for 3 days in the fridge.
+* Substitutions: Can use vegetable oil instead of olive oil.
 
 ## based on
 * Family Recipe
+
+## related recipes
+* [[Sauce Name]]
+* [[Side Dish Name]]
