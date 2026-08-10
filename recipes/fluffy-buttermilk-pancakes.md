@@ -14,30 +14,45 @@ image: "assets/images/fluffy-buttermilk-pancakes.jpg"
 Light, golden, melt-in-your-mouth buttermilk pancakes served with warm maple syrup and fresh berries.
 
 ## info
-* Takes about 25 minutes total (10 mins prep, 15 mins cook)
-* Serves 4
+* Total time: 25 minutes (10 mins prep, 15 mins cook)
+* Servings: 4
+
+## prep
+- [ ] Gather tools: griddle/skillet, large bowl, medium bowl, whisk, spatula
+- [ ] Measure out flour, sugar, baking powder, baking soda, and salt
+- [ ] Melt 1/4 cup (56g) butter and let cool slightly
+- [ ] Preheat griddle or skillet to 350°F (175°C)
 
 ## ingredients
-* 2 cups All-Purpose Flour
-* 2 tbsp Sugar
-* 2 tsp Baking Powder
-* 1 tsp Baking Soda
-* 1/2 tsp Salt
-* 2 cups Buttermilk
-* 2 Large Eggs
-* 1/4 cup Unsalted Butter (melted)
-* 1 tsp Pure Vanilla Extract
-* Pure Maple Syrup & Fresh Berries
+
+| Ingredient | Amount | Amount (grams) | Notes |
+|---|---|---|---|
+| All-Purpose Flour | 2 cups | 240g | Sifted |
+| Sugar | 2 tbsp | 25g | Granulated |
+| Baking Powder | 2 tsp | 8g | |
+| Baking Soda | 1 tsp | 5g | |
+| Salt | 1/2 tsp | 3g | Fine sea salt |
+| Buttermilk | 2 cups | 480g | Whole buttermilk |
+| Eggs | 2 large | 100g | Room temperature |
+| Unsalted Butter | 1/4 cup | 56g | Melted |
+| Vanilla Extract | 1 tsp | 5g | Pure vanilla |
+| Maple Syrup & Berries | To taste | | For serving |
 
 ## steps
-1. **Whisk Dry Ingredients**: Mix flour, sugar, baking powder, baking soda, and salt in a large bowl.
-2. **Whisk Wet Ingredients**: In a separate bowl, whisk buttermilk, eggs, melted butter, and vanilla.
-3. **Combine Batter**: Fold wet into dry until just combined (leave slightly lumpy; do not overmix!). Rest 5 minutes.
-4. **Cook**: Heat griddle to 350°F and grease with butter. Pour 1/3 cup batter for each pancake. Cook until bubbles form (2-3 mins), flip and cook 1-2 mins more.
-5. **Serve**: Top with butter and warm maple syrup.
+1. In a large bowl, whisk together 240g flour, 25g sugar, 8g baking powder, 5g baking soda, and 3g salt.
+2. In a separate bowl, whisk 480g buttermilk, 100g eggs, 56g melted butter, and 5g vanilla extract.
+3. Pour wet mixture into dry ingredients. Fold gently with a spatula until just combined (leave slightly lumpy; do not overmix!). Rest batter for 5 minutes.
+4. Grease preheated 350°F griddle with butter. Pour 1/3 cup batter per pancake.
+5. Cook until bubbles form on surface and edges look set (2-3 mins). Flip and cook 1-2 mins more until golden brown.
+6. Serve warm topped with butter and maple syrup.
 
 ## notes
-* For extra fluffy pancakes, do not overmix the batter!
+* Storage: Leftover pancakes can be frozen between parchment paper and reheated in a toaster.
+* Tips: Resting the batter for 5 minutes lets the buttermilk react with baking soda for maximum fluffiness.
 
 ## based on
 * Family Weekend Tradition
+
+## related recipes
+* [[Crispy Oven Bacon]]
+* [[Fresh Fruit Salad]]
