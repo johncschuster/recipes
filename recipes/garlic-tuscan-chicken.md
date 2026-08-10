@@ -40,20 +40,21 @@ Tender pan-seared chicken breasts simmered in a silky garlic, sun-dried tomato, 
 | Italian Seasoning | 1 tsp | 3g | |
 
 ## steps
-1. Season 680g chicken breasts with 3g Italian seasoning, salt, and black pepper.
-2. Heat 30g olive oil in a large skillet over medium-high heat. Sear chicken 5 minutes per side until golden (165°F). Transfer to plate.
-3. Melt 14g butter in the same skillet. Add 18g minced garlic and 75g sun-dried tomatoes; sauté for 1 minute until fragrant.
-4. Pour in 120g heavy cream and 120g chicken broth. Bring to a gentle simmer, then whisk in 50g grated Parmesan cheese until smooth.
-5. Add 60g fresh baby spinach and simmer for 2 minutes until wilted.
-6. Return cooked chicken to skillet, spooning sauce over top. Simmer 2 minutes and serve warm.
+1. Season 1.5 lbs (680g) boneless chicken breasts with 1 tsp (3g) Italian seasoning, salt, and black pepper.
+2. Heat 2 tbsp (30g) olive oil in a large skillet over medium-high heat. Sear chicken cutlets 5 minutes per side until golden brown (internal temperature 165°F). Transfer chicken to a plate.
+3. Melt 1 tbsp (14g) butter in the same skillet. Add 6 cloves (18g) minced garlic and 1/2 cup (75g) drained, chopped sun-dried tomatoes; sauté for 1 minute until fragrant.
+4. Pour in 1/2 cup (120g) heavy cream and 1/2 cup (120g) chicken broth. Bring to a gentle simmer, then whisk in 1/2 cup (50g) grated Parmesan cheese until smooth.
+5. Add 2 cups (60g) fresh baby spinach and simmer for 2 minutes until spinach is fully wilted.
+6. Return cooked chicken breasts to skillet, spooning sauce over top. Simmer 2 minutes and serve warm.
 
 ## notes
 * Storage: Keeps in an airtight container for 3 days in the fridge.
 * Substitutions: Half-and-half can be substituted for heavy cream for a lighter sauce.
-
-## based on
-* Schuster Kitchen
+* Variations: Serve over penne pasta, rice, or with warm crusty bread.
 
 ## related recipes
 * [[Penne Arrabbiata]]
 * [[Garlic Butter Rice]]
+
+## based on
+* Schuster Kitchen

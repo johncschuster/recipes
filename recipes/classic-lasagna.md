@@ -42,9 +42,9 @@ Rich, savory homemade lasagna layered with Italian sausage, ground beef, rich ma
 | Fresh Parsley & Basil | 2 tbsp | 8g | Chopped |
 
 ## steps
-1. Heat large skillet over medium-high heat. Add 1 lb (454g) Italian sausage, 1 lb (454g) ground beef, 150g chopped onion, and 12g minced garlic. Cook until browned (approx 10 minutes), then drain excess fat.
-2. Stir in 794g marinara sauce and 33g tomato paste. Simmer for 15 minutes over low heat.
-3. In a bowl, combine 425g ricotta cheese, 1 egg (50g), 50g grated Parmesan, 8g fresh herbs, 1/2 tsp salt, and 1/4 tsp black pepper.
+1. Heat 1 tbsp olive oil in a large skillet over medium-high heat. Add 1 lb (454g) Italian sausage, 1 lb (454g) ground beef, 1 large (150g) chopped yellow onion, and 4 cloves (12g) minced garlic. Cook for 10 minutes until browned, then drain excess fat.
+2. Stir in 1 jar (794g) marinara sauce and 2 tbsp (33g) tomato paste into the skillet. Simmer over low heat for 15 minutes.
+3. In a medium bowl, combine 15 oz (425g) ricotta cheese, 1 large (50g) egg, 1/2 cup (50g) grated Parmesan, 2 tbsp (8g) fresh herbs, 1/2 tsp salt, and 1/4 tsp black pepper.
 4. Spread 1 cup meat sauce on the bottom of a 9x13-inch baking dish. Lay 4 lasagna noodles on top. Layer with half of the ricotta mixture, 1 cup (112g) mozzarella, and 1.5 cups meat sauce. Repeat layer. Top with final 4 noodles, remaining meat sauce, and remaining 225g mozzarella.
 5. Cover loosely with foil and bake at 375°F (190°C) for 25 minutes. Remove foil and bake 20 minutes more until bubbly and golden brown.
 6. Rest for 15 minutes before slicing and serving.
@@ -52,10 +52,11 @@ Rich, savory homemade lasagna layered with Italian sausage, ground beef, rich ma
 ## notes
 * Storage: Keeps in an airtight container for up to 4 days in the fridge, or freeze up to 3 months.
 * Substitutions: Can substitute ground turkey or plant-based sausage.
-
-## based on
-* Family Recipe
+* Variations: Add spinach or sautéed mushrooms to the ricotta layer for extra vegetables.
 
 ## related recipes
 * [[Homemade Garlic Bread]]
 * [[Caesar Salad]]
+
+## based on
+* Family Recipe
