@@ -1,50 +1,47 @@
+
+
+Template · MD
 ---
 title: "Recipe Name"
-servings: 4
-prep_time: "15 mins"
-cook_time: "30 mins"
+servings: [number]
+prep_time: "[X] mins"
+cook_time: "[X] mins"
 tags:
-  - Dinner
-  - Quick
-source: "Family Recipe / Link"
+  - Category
+  - Type
+  - Dietary restriction if applicable
+source: "Source attribution or 'Original Recipe'"
 image: "assets/images/recipe-name.jpg"
 ---
-
+ 
 # Recipe Name
 Optional subheader or brief description of this dish.
-
+ 
 ## info
-* Total time: 45 minutes (15 mins prep, 30 mins cook)
-* Servings: 4
-
+* Total time: [X] minutes ([prep] mins prep, [cook] mins cook)
+* Servings: [number]
 ## prep
-- [ ] Gather tools: cutting board, chef's knife, mixing bowl, pan
-- [ ] Chop all vegetables as needed
-- [ ] Preheat oven to 375°F if needed
-- [ ] Measure out all dry ingredients
-
+- [ ] Preparation task 1
+- [ ] Preparation task 2
+- [ ] Preparation task 3
 ## ingredients
-
+ 
 | Ingredient | Amount | Amount (grams) | Notes |
 |---|---|---|---|
-| Main Ingredient | 1 lb | 454g | Chopped |
-| Olive Oil | 2 tbsp | 30g | |
-| Salt | 1 tsp | 6g | To taste |
-| Black Pepper | 1/2 tsp | 1g | Freshly ground |
-
+| Ingredient name | Original amount | Grams | Notes if any |
+| Ingredient name | Original amount | Grams | Notes if any |
+ 
 ## steps
-1. Heat 2 tbsp (30g) olive oil in a pan over medium heat for 1 minute.
-2. Add 1 lb (454g) chopped main ingredient and cook for 15 minutes, stirring occasionally.
-3. Season with 1 tsp (6g) salt and 1/2 tsp (1g) black pepper.
-4. Garnish and serve warm.
-
+1. First step with full ingredient amounts included
+2. Second step with full ingredient amounts included
+3. Continue numbered steps with all ingredient amounts
 ## notes
-* Storage: Keeps in an airtight container for 3 days in the fridge.
-* Substitutions: Can use vegetable oil instead of olive oil.
-
-## based on
-* Family Recipe
-
+* Storage tips
+* Substitution ideas
+* Variations
+* Any other relevant notes from the original recipe
 ## related recipes
-* [[Sauce Name]]
-* [[Side Dish Name]]
+* [[Sub-Recipe Name]] (only if applicable)
+## based on
+* Source attribution
+ 
